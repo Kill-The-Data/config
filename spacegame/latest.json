@@ -1,5 +1,5 @@
 {
-    "version":2,
-    "health":20,
-    "maxCargo":3
+    "version": 2,
+    "health": 100,
+    "maxCargo": 3
 }
