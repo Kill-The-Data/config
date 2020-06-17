@@ -1,9 +1,9 @@
 {
     "version": 4,
-    "health": 10,
+    "health": 100,
     "max_cargo": 3,
     "fuel_gain": 10,
-    "obstacle_damage": 2,
-    "debris_damage": 0.1,
+    "obstacle_damage": 20,
+    "debris_damage": 10,
     "buoy_cargo": 4
 }
