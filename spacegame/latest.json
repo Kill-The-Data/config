@@ -6,6 +6,6 @@
     "obstacle_damage": 20,
     "debris_damage": 10,
     "buoy_cargo": 4,
-    "max_fuel": 30,
+    "max_fuel": 40,
     "initial_fuel": 30
 }
