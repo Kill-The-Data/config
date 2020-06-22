@@ -1,13 +1,13 @@
 {
     "version": 4,
-    "health": 100,
+    "health": 10,
     "max_cargo": 3,
-    "fuel_gain": 20,
-    "obstacle_damage": 20,
-    "debris_damage": 10,
+    "fuel_gain": 30,
+    "obstacle_damage": 2,
+    "debris_damage": 1,
     "buoy_cargo": 4,
-    "max_fuel": 40,
-    "initial_fuel": 30,
+    "max_fuel": 60,
+    "initial_fuel": 40,
     "Normal_Trash_Score": 10,
-    "Easter_Egg_Score":100
+    "Easter_Egg_Score": 100
 }
