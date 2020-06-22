@@ -8,6 +8,6 @@
     "buoy_cargo": 4,
     "max_fuel": 60,
     "initial_fuel": 30,
-    "Normal_Trash_Score": 10,
+    "Normal_Trash_Score": 15,
     "Easter_Egg_Score": 50
 }
