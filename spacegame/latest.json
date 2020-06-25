@@ -2,7 +2,7 @@
     "version": 4,
     "health": 10,
     "max_cargo": 3,
-    "fuel_gain": 25,
+    "fuel_gain": 30,
     "obstacle_damage": 2,
     "debris_damage": 1,
     "buoy_cargo": 4,
